@@ -2,3 +2,5 @@ this is first create
 modify by lengyang
 no bb
 Creating a new branch is quick oh yeh
+
+Creating a new branch is quick and simple.
